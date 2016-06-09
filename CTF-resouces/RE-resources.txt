@@ -1,0 +1,14 @@
+Immunity Debugger
+OllyDbg
+SWFScan
+gdb
+IDA Pro
+WinDbg
+Apktool
+PE Tool
+UPX
+dex2jar (Android)
+Radare2
+Strace
+Objdump
+PEID 

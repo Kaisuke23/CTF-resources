@@ -1,0 +1,7 @@
+Hashdump
+Hexdump
+Sage
+John The Ripper
+OpenVMS
+Cryptool
+crypo.in.ua
